@@ -57,9 +57,11 @@ p {
   height:600px;
   background: url(../images/poznan.jpg);
   background-repeat: no-repeat;
-  background-position: center;
-  background-size:cover;
+
  background-attachment: fixed;
+ background-position: center center;
+ background-repeat: no-repeat;
+ background-size: cover;
 }
 .bgimage h5 {
   color:white;
