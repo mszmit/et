@@ -43,8 +43,7 @@ p {
 }
 .bgimage {
   padding: 50px 0 80px;
-
-  max-width:100%
+width: 100%
   height:600px;
   background: url(../images/warszawa.jpg);
   background-repeat: no-repeat;
@@ -54,8 +53,7 @@ p {
 }
 .bgimage1 {
   padding: 50px 0 80px;
-
-  max-width:100%
+width: 100%
   height:600px;
   background: url(../images/poznan.jpg);
   background-repeat: no-repeat;
@@ -170,7 +168,35 @@ p {
 
 @media(max-width:768px) {
 
-    .header {
+
+  .bgimage {
+    padding: 50px 0 80px;
+
+    max-width:100%
+    height:600px;
+    background: url(../images/warszawa.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size:cover;
+   background-attachment: fixed;
+  }
+  .bgimage1 {
+    padding: 50px 0 80px;
+
+    max-width:100%
+    height:600px;
+    background: url(../images/poznan.jpg);
+    background-repeat: no-repeat;
+
+   background-attachment: fixed;
+   background-position: center center;
+   background-repeat: no-repeat;
+   background-size: cover;
+  }
+
+
+
+  .header {
 
         padding: 30px;
         height: 750px;
@@ -239,6 +265,35 @@ p {
 
 @media(max-width:768px) {
 
+
+
+
+  .bgimage {
+    padding: 50px 0 80px;
+
+    max-width:100%
+    height:600px;
+    background: url(../images/warszawa.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size:cover;
+   background-attachment: fixed;
+  }
+  .bgimage1 {
+    padding: 50px 0 80px;
+
+    max-width:100%
+    height:600px;
+    background: url(../images/poznan.jpg);
+    background-repeat: no-repeat;
+
+   background-attachment: fixed;
+   background-position: center center;
+   background-repeat: no-repeat;
+   background-size: cover;
+  }
+
+
     .services {
 
         padding: 30px;
@@ -303,6 +358,39 @@ p {
 
 
 @media(max-width:768px) {
+
+
+
+
+
+  .bgimage {
+    padding: 50px 0 80px;
+
+    max-width:100%
+    height:600px;
+    background: url(../images/warszawa.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size:cover;
+   background-attachment: fixed;
+  }
+  .bgimage1 {
+    padding: 50px 0 80px;
+
+    max-width:100%
+    height:600px;
+    background: url(../images/poznan.jpg);
+    background-repeat: no-repeat;
+
+   background-attachment: fixed;
+   background-position: center center;
+   background-repeat: no-repeat;
+   background-size: cover;
+  }
+
+
+
+
 
     .pricing {
 
